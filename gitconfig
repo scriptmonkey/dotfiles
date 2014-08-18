@@ -1,0 +1,6 @@
+[alias]
+	st = status
+[user]
+	email = rodj@rodandmichelle.com
+[core]
+	excludesfile = ~/.gitignore
