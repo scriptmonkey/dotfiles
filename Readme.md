@@ -1,7 +1,7 @@
 My dotfiles
 ====
 
-I had to rebuild my linux workstation.  So I decided to start a dotfile repo to maintain my file for the next time I have to rebuid.
+I had to rebuild my linux workstation.  So I decided to start a dotfile repo to maintain my file for the next time I have to rebuid.  My dotfiles are patterned after thoughbot's dotfile repo.
 
 Nothing to see here.  Move along ;)
 
