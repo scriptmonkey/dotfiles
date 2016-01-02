@@ -54,7 +54,7 @@ augroup END
 set background=dark
 let g:solarized_termtrans=1
 "colorscheme solarized
-colorscheme Monokai
+"colorscheme Monokai
 
 set number
 set numberwidth=5
